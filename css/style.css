@@ -100,7 +100,7 @@ footer {
 
 .code, .codeblock, .quote {
     background: #eee;
-    border: 1px solid #ccc;
+    border-left: 3px solid #99c;
     color: #000;
 }
 .codeblock, .quote {
@@ -112,6 +112,7 @@ footer {
     font-family: "courier new", courier, monospace;
 }
 .code {
+    border: none;
     padding: 1px 3px;
 }
 .codeblock .codeblock,
